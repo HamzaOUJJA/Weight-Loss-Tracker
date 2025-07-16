@@ -17,7 +17,7 @@ Responsive Design: A clean and modern user interface built with Tailwind CSS, en
 🚀 Live Demo
 Experience the app live:
 
-[[Deployment Link Here](https://gym-weight-loss-tracker.netlify.app/)]
+[[Deployment Link](https://gym-weight-loss-tracker.netlify.app/)]
 
 🛠️ Technologies Used
 HTML5: For the basic structure of the web pages.
